@@ -1,0 +1,438 @@
+fileFormatVersion: 2
+guid: 6152dbfe25b59e54f9c51f22e0a5a21d
+timeCreated: 1489303422
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Group-447462-106
+    100002: Group-447462-110
+    100004: Group-447462-117
+    100006: Group-447462-119
+    100008: Group-447462-130
+    100010: Group-447462-161
+    100012: Group-447462-17
+    100014: Group-447462-2
+    100016: Group-447462-204
+    100018: Group-447462-218
+    100020: Group-447462-251
+    100022: Group-447462-270
+    100024: Group-447462-386
+    100026: Group-447462-404
+    100028: Group-447462-43
+    100030: Group-447462-432
+    100032: Group-447462-440
+    100034: Group-447462-452
+    100036: Group-447462-480
+    100038: Group-447462-525
+    100040: Group-447462-540
+    100042: Group-447462-563
+    100044: Group-447462-573
+    100046: Group-447462-587
+    100048: Group-447462-587 1
+    100050: Group-447462-597
+    100052: Group-447462-619
+    100054: Group-447462-619 1
+    100056: Group-447462-635
+    100058: Group-447462-646
+    100060: Group-447462-651
+    100062: Group-447462-758
+    100064: Group-447462-767
+    100066: Group-447462-774
+    100068: Group-447462-780
+    100070: Group-447462-783
+    100072: Group-447462-792
+    100074: Group-447462-808
+    100076: Group-447462-812
+    100078: Group-447462-902
+    100080: Group-447462-91
+    100082: Group-447462-917
+    100084: Group-447462-922
+    100086: Group-447462-965
+    100088: Group-447462-967
+    100090: Group-447462-973
+    100092: Group-511464-853
+    100094: Group-513100-300
+    100096: huangllianbj011
+    100098: huangllianbj013
+    100100: huangllianbj014
+    100102: huangllianbj015
+    100104: //RootNode
+    100106: Obj3d66-483777-1-919
+    100108: Obj3d66-483777-1-921
+    100110: Obj3d66-483777-1-922
+    100112: Obj3d66-483777-1-923
+    100114: Particle View 01
+    100116: Particle View 01 1
+    100118: Particle View 01 10
+    100120: Particle View 01 11
+    100122: Particle View 01 12
+    100124: Particle View 01 13
+    100126: Particle View 01 14
+    100128: Particle View 01 15
+    100130: Particle View 01 16
+    100132: Particle View 01 17
+    100134: Particle View 01 18
+    100136: Particle View 01 19
+    100138: Particle View 01 2
+    100140: Particle View 01 3
+    100142: Particle View 01 4
+    100144: Particle View 01 5
+    100146: Particle View 01 6
+    100148: Particle View 01 7
+    100150: Particle View 01 8
+    100152: Particle View 01 9
+    400000: Group-447462-106
+    400002: Group-447462-110
+    400004: Group-447462-117
+    400006: Group-447462-119
+    400008: Group-447462-130
+    400010: Group-447462-161
+    400012: Group-447462-17
+    400014: Group-447462-2
+    400016: Group-447462-204
+    400018: Group-447462-218
+    400020: Group-447462-251
+    400022: Group-447462-270
+    400024: Group-447462-386
+    400026: Group-447462-404
+    400028: Group-447462-43
+    400030: Group-447462-432
+    400032: Group-447462-440
+    400034: Group-447462-452
+    400036: Group-447462-480
+    400038: Group-447462-525
+    400040: Group-447462-540
+    400042: Group-447462-563
+    400044: Group-447462-573
+    400046: Group-447462-587
+    400048: Group-447462-587 1
+    400050: Group-447462-597
+    400052: Group-447462-619
+    400054: Group-447462-619 1
+    400056: Group-447462-635
+    400058: Group-447462-646
+    400060: Group-447462-651
+    400062: Group-447462-758
+    400064: Group-447462-767
+    400066: Group-447462-774
+    400068: Group-447462-780
+    400070: Group-447462-783
+    400072: Group-447462-792
+    400074: Group-447462-808
+    400076: Group-447462-812
+    400078: Group-447462-902
+    400080: Group-447462-91
+    400082: Group-447462-917
+    400084: Group-447462-922
+    400086: Group-447462-965
+    400088: Group-447462-967
+    400090: Group-447462-973
+    400092: Group-511464-853
+    400094: Group-513100-300
+    400096: huangllianbj011
+    400098: huangllianbj013
+    400100: huangllianbj014
+    400102: huangllianbj015
+    400104: //RootNode
+    400106: Obj3d66-483777-1-919
+    400108: Obj3d66-483777-1-921
+    400110: Obj3d66-483777-1-922
+    400112: Obj3d66-483777-1-923
+    400114: Particle View 01
+    400116: Particle View 01 1
+    400118: Particle View 01 10
+    400120: Particle View 01 11
+    400122: Particle View 01 12
+    400124: Particle View 01 13
+    400126: Particle View 01 14
+    400128: Particle View 01 15
+    400130: Particle View 01 16
+    400132: Particle View 01 17
+    400134: Particle View 01 18
+    400136: Particle View 01 19
+    400138: Particle View 01 2
+    400140: Particle View 01 3
+    400142: Particle View 01 4
+    400144: Particle View 01 5
+    400146: Particle View 01 6
+    400148: Particle View 01 7
+    400150: Particle View 01 8
+    400152: Particle View 01 9
+    2300000: huangllianbj011
+    2300002: huangllianbj013
+    2300004: huangllianbj014
+    2300006: huangllianbj015
+    2300008: Obj3d66-483777-1-919
+    2300010: Obj3d66-483777-1-921
+    2300012: Obj3d66-483777-1-922
+    2300014: Obj3d66-483777-1-923
+    3300000: huangllianbj011
+    3300002: huangllianbj013
+    3300004: huangllianbj014
+    3300006: huangllianbj015
+    3300008: Obj3d66-483777-1-919
+    3300010: Obj3d66-483777-1-921
+    3300012: Obj3d66-483777-1-922
+    3300014: Obj3d66-483777-1-923
+    4300000: Obj3d66-483777-1-919
+    4300002: Obj3d66-483777-1-921
+    4300004: Obj3d66-483777-1-922
+    4300006: Obj3d66-483777-1-923
+    4300008: huangllianbj011
+    4300010: huangllianbj013
+    4300012: huangllianbj014
+    4300014: huangllianbj015
+    7400000: Open
+    7400002: shineierju
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: shineierju
+      takeName: shineierju
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Group-447462-2
+        weight: 1
+      - path: Group-447462-17
+        weight: 1
+      - path: Group-447462-43
+        weight: 1
+      - path: Group-447462-91
+        weight: 1
+      - path: Group-447462-106
+        weight: 1
+      - path: Group-447462-110
+        weight: 1
+      - path: Group-447462-117
+        weight: 1
+      - path: Group-447462-119
+        weight: 1
+      - path: Group-447462-130
+        weight: 1
+      - path: Group-447462-161
+        weight: 1
+      - path: Group-447462-204
+        weight: 1
+      - path: Group-447462-218
+        weight: 1
+      - path: Group-447462-251
+        weight: 1
+      - path: Group-447462-270
+        weight: 1
+      - path: Group-447462-386
+        weight: 1
+      - path: Group-447462-404
+        weight: 1
+      - path: Group-447462-432
+        weight: 1
+      - path: Group-447462-440
+        weight: 1
+      - path: Group-447462-452
+        weight: 1
+      - path: Group-447462-480
+        weight: 1
+      - path: Group-447462-525
+        weight: 1
+      - path: Group-447462-540
+        weight: 1
+      - path: Group-447462-563
+        weight: 1
+      - path: Group-447462-573
+        weight: 1
+      - path: Group-447462-587
+        weight: 1
+      - path: Group-447462-587 1
+        weight: 1
+      - path: Group-447462-597
+        weight: 1
+      - path: Group-447462-619
+        weight: 1
+      - path: Group-447462-619 1
+        weight: 1
+      - path: Group-447462-635
+        weight: 1
+      - path: Group-447462-646
+        weight: 1
+      - path: Group-447462-651
+        weight: 1
+      - path: Group-447462-758
+        weight: 1
+      - path: Group-447462-767
+        weight: 1
+      - path: Group-447462-774
+        weight: 1
+      - path: Group-447462-780
+        weight: 1
+      - path: Group-447462-783
+        weight: 1
+      - path: Group-447462-792
+        weight: 1
+      - path: Group-447462-808
+        weight: 1
+      - path: Group-447462-812
+        weight: 1
+      - path: Group-447462-902
+        weight: 1
+      - path: Group-447462-917
+        weight: 1
+      - path: Group-447462-922
+        weight: 1
+      - path: Group-447462-965
+        weight: 1
+      - path: Group-447462-967
+        weight: 1
+      - path: Group-447462-973
+        weight: 1
+      - path: Group-511464-853
+        weight: 1
+      - path: Group-513100-300
+        weight: 1
+      - path: huangllianbj011
+        weight: 1
+      - path: huangllianbj013
+        weight: 1
+      - path: huangllianbj014
+        weight: 1
+      - path: huangllianbj015
+        weight: 1
+      - path: Obj3d66-483777-1-919
+        weight: 1
+      - path: Obj3d66-483777-1-921
+        weight: 1
+      - path: Obj3d66-483777-1-922
+        weight: 1
+      - path: Obj3d66-483777-1-923
+        weight: 1
+      - path: Particle View 01
+        weight: 1
+      - path: Particle View 01 1
+        weight: 1
+      - path: Particle View 01 2
+        weight: 1
+      - path: Particle View 01 3
+        weight: 1
+      - path: Particle View 01 4
+        weight: 1
+      - path: Particle View 01 5
+        weight: 1
+      - path: Particle View 01 6
+        weight: 1
+      - path: Particle View 01 7
+        weight: 1
+      - path: Particle View 01 8
+        weight: 1
+      - path: Particle View 01 9
+        weight: 1
+      - path: Particle View 01 10
+        weight: 1
+      - path: Particle View 01 11
+        weight: 1
+      - path: Particle View 01 12
+        weight: 1
+      - path: Particle View 01 13
+        weight: 1
+      - path: Particle View 01 14
+        weight: 1
+      - path: Particle View 01 15
+        weight: 1
+      - path: Particle View 01 16
+        weight: 1
+      - path: Particle View 01 17
+        weight: 1
+      - path: Particle View 01 18
+        weight: 1
+      - path: Particle View 01 19
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

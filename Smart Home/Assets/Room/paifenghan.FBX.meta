@@ -1,0 +1,268 @@
+fileFormatVersion: 2
+guid: a2cb587362bd7cb488cb18c7ea5917ff
+timeCreated: 1489296974
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cooller
+    100002: //RootNode
+    100004: paifengshan
+    100006: paifengshan1
+    100008: paifengshan1003
+    100010: paifengshan1004
+    100012: paifengshan1005
+    100014: paifengshan1009
+    100016: paifengshan1010
+    100018: paifengshan1011
+    100020: paifengshan1012
+    100022: paifengshan1013
+    100024: paifengshan1014
+    100026: paifengshan1016
+    100028: paifengshan1018
+    100030: paifengshan1019
+    100032: paifengshan115
+    100034: "\u5BF9\u8C61002"
+    100036: "\u5BF9\u8C61006"
+    100038: "\u5BF9\u8C61007"
+    100040: "\u5BF9\u8C61008"
+    100042: "\u5BF9\u8C61017"
+    100044: "\u5BF9\u8C61020"
+    100046: "\u5BF9\u8C61021"
+    100048: "\u7EC4001"
+    400000: Cooller
+    400002: //RootNode
+    400004: paifengshan
+    400006: paifengshan1
+    400008: paifengshan1003
+    400010: paifengshan1004
+    400012: paifengshan1005
+    400014: paifengshan1009
+    400016: paifengshan1010
+    400018: paifengshan1011
+    400020: paifengshan1012
+    400022: paifengshan1013
+    400024: paifengshan1014
+    400026: paifengshan1016
+    400028: paifengshan1018
+    400030: paifengshan1019
+    400032: paifengshan115
+    400034: "\u5BF9\u8C61002"
+    400036: "\u5BF9\u8C61006"
+    400038: "\u5BF9\u8C61007"
+    400040: "\u5BF9\u8C61008"
+    400042: "\u5BF9\u8C61017"
+    400044: "\u5BF9\u8C61020"
+    400046: "\u5BF9\u8C61021"
+    400048: "\u7EC4001"
+    2300000: paifengshan1
+    2300002: paifengshan1003
+    2300004: paifengshan1004
+    2300006: paifengshan1005
+    2300008: paifengshan1009
+    2300010: paifengshan1010
+    2300012: paifengshan1011
+    2300014: paifengshan1012
+    2300016: paifengshan1013
+    2300018: paifengshan1014
+    2300020: paifengshan1016
+    2300022: paifengshan1018
+    2300024: paifengshan1019
+    2300026: paifengshan115
+    2300028: "\u5BF9\u8C61002"
+    2300030: "\u5BF9\u8C61006"
+    2300032: "\u5BF9\u8C61007"
+    2300034: "\u5BF9\u8C61008"
+    2300036: "\u5BF9\u8C61017"
+    2300038: "\u5BF9\u8C61020"
+    2300040: "\u5BF9\u8C61021"
+    3300000: paifengshan1
+    3300002: paifengshan1003
+    3300004: paifengshan1004
+    3300006: paifengshan1005
+    3300008: paifengshan1009
+    3300010: paifengshan1010
+    3300012: paifengshan1011
+    3300014: paifengshan1012
+    3300016: paifengshan1013
+    3300018: paifengshan1014
+    3300020: paifengshan1016
+    3300022: paifengshan1018
+    3300024: paifengshan1019
+    3300026: paifengshan115
+    3300028: "\u5BF9\u8C61002"
+    3300030: "\u5BF9\u8C61006"
+    3300032: "\u5BF9\u8C61007"
+    3300034: "\u5BF9\u8C61008"
+    3300036: "\u5BF9\u8C61017"
+    3300038: "\u5BF9\u8C61020"
+    3300040: "\u5BF9\u8C61021"
+    4300000: paifengshan1
+    4300002: "\u5BF9\u8C61020"
+    4300004: "\u5BF9\u8C61017"
+    4300006: "\u5BF9\u8C61007"
+    4300008: "\u5BF9\u8C61006"
+    4300010: "\u5BF9\u8C61002"
+    4300012: "\u5BF9\u8C61008"
+    4300014: "\u5BF9\u8C61021"
+    4300016: paifengshan1003
+    4300018: paifengshan1016
+    4300020: paifengshan1004
+    4300022: paifengshan1005
+    4300024: paifengshan1009
+    4300026: paifengshan1010
+    4300028: paifengshan1011
+    4300030: paifengshan1012
+    4300032: paifengshan1013
+    4300034: paifengshan1014
+    4300036: paifengshan115
+    4300038: paifengshan1018
+    4300040: paifengshan1019
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cooller
+        weight: 1
+      - path: paifengshan
+        weight: 1
+      - path: paifengshan/paifengshan1
+        weight: 1
+      - path: "paifengshan/\u5BF9\u8C61002"
+        weight: 1
+      - path: "paifengshan/\u5BF9\u8C61006"
+        weight: 1
+      - path: "paifengshan/\u5BF9\u8C61007"
+        weight: 1
+      - path: "paifengshan/\u5BF9\u8C61008"
+        weight: 1
+      - path: "paifengshan/\u5BF9\u8C61017"
+        weight: 1
+      - path: "paifengshan/\u5BF9\u8C61020"
+        weight: 1
+      - path: "paifengshan/\u5BF9\u8C61021"
+        weight: 1
+      - path: "paifengshan/\u7EC4001"
+        weight: 1
+      - path: "paifengshan/\u7EC4001/paifengshan115"
+        weight: 1
+      - path: "paifengshan/\u7EC4001/paifengshan1003"
+        weight: 1
+      - path: "paifengshan/\u7EC4001/paifengshan1004"
+        weight: 1
+      - path: "paifengshan/\u7EC4001/paifengshan1005"
+        weight: 1
+      - path: "paifengshan/\u7EC4001/paifengshan1009"
+        weight: 1
+      - path: "paifengshan/\u7EC4001/paifengshan1010"
+        weight: 1
+      - path: "paifengshan/\u7EC4001/paifengshan1011"
+        weight: 1
+      - path: "paifengshan/\u7EC4001/paifengshan1012"
+        weight: 1
+      - path: "paifengshan/\u7EC4001/paifengshan1013"
+        weight: 1
+      - path: "paifengshan/\u7EC4001/paifengshan1014"
+        weight: 1
+      - path: "paifengshan/\u7EC4001/paifengshan1016"
+        weight: 1
+      - path: "paifengshan/\u7EC4001/paifengshan1018"
+        weight: 1
+      - path: "paifengshan/\u7EC4001/paifengshan1019"
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

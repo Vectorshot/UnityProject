@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: 22780dca9b0548a409f054250355348d
+timeCreated: 1489302153
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: tuilamen
+    100002: tuilamen  1
+    100004: tuilamen 2
+    100006: tuilamen0
+    100008: tuilamen07
+    100010: tuilamen08
+    100012: tuilamen09
+    100014: tuilamen10
+    100016: tuilamen11
+    100018: tuilamen11 1
+    100020: tuilamen2
+    100022: tuilamen32
+    100024: tuilamen33
+    100026: tuilamen34
+    100028: tuilamen35
+    100030: tuilamen38
+    100032: tuilamen39
+    100034: tuilamen43
+    100036: tuilamen44
+    100038: tuilamen45
+    100040: tuilamen46
+    100042: tuilamen53
+    100044: tuilamen54
+    100046: tuilamen55
+    100048: tuilamen56
+    100050: tuilamen58
+    100052: tuilamen59
+    100054: tuilamen9
+    100056: tuilamenboli40
+    100058: tuilamenbolix51
+    100060: tuilamene10
+    100062: tuilamenx57
+    100064: //RootNode
+    400000: tuilamen
+    400002: tuilamen  1
+    400004: tuilamen 2
+    400006: tuilamen0
+    400008: tuilamen07
+    400010: tuilamen08
+    400012: tuilamen09
+    400014: tuilamen10
+    400016: tuilamen11
+    400018: tuilamen11 1
+    400020: tuilamen2
+    400022: tuilamen32
+    400024: tuilamen33
+    400026: tuilamen34
+    400028: tuilamen35
+    400030: tuilamen38
+    400032: tuilamen39
+    400034: tuilamen43
+    400036: tuilamen44
+    400038: tuilamen45
+    400040: tuilamen46
+    400042: tuilamen53
+    400044: tuilamen54
+    400046: tuilamen55
+    400048: tuilamen56
+    400050: tuilamen58
+    400052: tuilamen59
+    400054: tuilamen9
+    400056: tuilamenboli40
+    400058: tuilamenbolix51
+    400060: tuilamene10
+    400062: tuilamenx57
+    400064: //RootNode
+    2300000: tuilamen
+    2300002: tuilamen0
+    2300004: tuilamen07
+    2300006: tuilamen08
+    2300008: tuilamen09
+    2300010: tuilamen10
+    2300012: tuilamen11
+    2300014: tuilamen11 1
+    2300016: tuilamen2
+    2300018: tuilamen32
+    2300020: tuilamen33
+    2300022: tuilamen34
+    2300024: tuilamen35
+    2300026: tuilamen38
+    2300028: tuilamen39
+    2300030: tuilamen43
+    2300032: tuilamen44
+    2300034: tuilamen45
+    2300036: tuilamen46
+    2300038: tuilamen53
+    2300040: tuilamen54
+    2300042: tuilamen55
+    2300044: tuilamen56
+    2300046: tuilamen58
+    2300048: tuilamen59
+    2300050: tuilamen9
+    2300052: tuilamenboli40
+    2300054: tuilamenbolix51
+    2300056: tuilamene10
+    2300058: tuilamenx57
+    3300000: tuilamen
+    3300002: tuilamen0
+    3300004: tuilamen07
+    3300006: tuilamen08
+    3300008: tuilamen09
+    3300010: tuilamen10
+    3300012: tuilamen11
+    3300014: tuilamen11 1
+    3300016: tuilamen2
+    3300018: tuilamen32
+    3300020: tuilamen33
+    3300022: tuilamen34
+    3300024: tuilamen35
+    3300026: tuilamen38
+    3300028: tuilamen39
+    3300030: tuilamen43
+    3300032: tuilamen44
+    3300034: tuilamen45
+    3300036: tuilamen46
+    3300038: tuilamen53
+    3300040: tuilamen54
+    3300042: tuilamen55
+    3300044: tuilamen56
+    3300046: tuilamen58
+    3300048: tuilamen59
+    3300050: tuilamen9
+    3300052: tuilamenboli40
+    3300054: tuilamenbolix51
+    3300056: tuilamene10
+    3300058: tuilamenx57
+    4300000: tuilamen
+    4300002: tuilamen07
+    4300004: tuilamen59
+    4300006: tuilamenx57
+    4300008: tuilamen43
+    4300010: tuilamen44
+    4300012: tuilamen2
+    4300014: tuilamen9
+    4300016: tuilamen0
+    4300018: tuilamen55
+    4300020: tuilamen11
+    4300022: tuilamenbolix51
+    4300024: tuilamene10
+    4300026: tuilamen11
+    4300028: tuilamen45
+    4300030: tuilamen46
+    4300032: tuilamen32
+    4300034: tuilamen56
+    4300036: tuilamen53
+    4300038: tuilamen09
+    4300040: tuilamen10
+    4300042: tuilamen33
+    4300044: tuilamen34
+    4300046: tuilamen35
+    4300048: tuilamen38
+    4300050: tuilamen39
+    4300052: tuilamen08
+    4300054: tuilamen58
+    4300056: tuilamenboli40
+    4300058: tuilamen54
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

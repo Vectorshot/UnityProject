@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smart Home", "Assembly-CSharp-firstpass.csproj", "{AB42B1F5-2EA8-A467-52F2-BAAACE1C5407}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smart Home", "Assembly-CSharp.csproj", "{FFFC242E-7ADF-9E9D-BE2C-1709138BD47A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smart Home", "Assembly-CSharp-Editor.csproj", "{FF1381B3-A696-F974-235D-387080C11519}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB42B1F5-2EA8-A467-52F2-BAAACE1C5407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB42B1F5-2EA8-A467-52F2-BAAACE1C5407}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB42B1F5-2EA8-A467-52F2-BAAACE1C5407}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB42B1F5-2EA8-A467-52F2-BAAACE1C5407}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFFC242E-7ADF-9E9D-BE2C-1709138BD47A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFFC242E-7ADF-9E9D-BE2C-1709138BD47A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFFC242E-7ADF-9E9D-BE2C-1709138BD47A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFFC242E-7ADF-9E9D-BE2C-1709138BD47A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF1381B3-A696-F974-235D-387080C11519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF1381B3-A696-F974-235D-387080C11519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF1381B3-A696-F974-235D-387080C11519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF1381B3-A696-F974-235D-387080C11519}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

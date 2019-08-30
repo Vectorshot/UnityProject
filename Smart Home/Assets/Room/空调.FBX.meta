@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: 961deb008d513e640b495e19df5f7c4d
+timeCreated: 1489222687
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: kongtaio01
+    100002: kongtaio01 1
+    100004: kongtaio02
+    100006: kongtaio02 1
+    100008: kongtaio03
+    100010: kongtaio03 1
+    100012: kongtaio04
+    100014: kongtaio06
+    100016: kongtaio07
+    100018: kongtaio08
+    100020: kongtaio09
+    100022: kongtaio1
+    100024: kongtaio1 1
+    100026: kongtaio10
+    100028: kongtaio11
+    100030: kongtaio12
+    100032: kongtaio13
+    100034: kongtaio14
+    100036: kongtaio15
+    100038: kongtaio16
+    100040: kongtaio5
+    100042: kongtaio6
+    100044: kongtaioe08
+    100046: kongtaior07
+    100048: kongtaiox01
+    100050: kongtaiox02
+    100052: Text001
+    100054: //RootNode
+    100056: "\u7A7A\u8C03"
+    400000: kongtaio01
+    400002: kongtaio01 1
+    400004: kongtaio02
+    400006: kongtaio02 1
+    400008: kongtaio03
+    400010: kongtaio03 1
+    400012: kongtaio04
+    400014: kongtaio06
+    400016: kongtaio07
+    400018: kongtaio08
+    400020: kongtaio09
+    400022: kongtaio1
+    400024: kongtaio1 1
+    400026: kongtaio10
+    400028: kongtaio11
+    400030: kongtaio12
+    400032: kongtaio13
+    400034: kongtaio14
+    400036: kongtaio15
+    400038: kongtaio16
+    400040: kongtaio5
+    400042: kongtaio6
+    400044: kongtaioe08
+    400046: kongtaior07
+    400048: kongtaiox01
+    400050: kongtaiox02
+    400052: Text001
+    400054: "\u7A7A\u8C03"
+    400056: //RootNode
+    2300000: kongtaio01
+    2300002: kongtaio01 1
+    2300004: kongtaio02
+    2300006: kongtaio02 1
+    2300008: kongtaio03
+    2300010: kongtaio03 1
+    2300012: kongtaio04
+    2300014: kongtaio06
+    2300016: kongtaio07
+    2300018: kongtaio08
+    2300020: kongtaio09
+    2300022: kongtaio1
+    2300024: kongtaio1 1
+    2300026: kongtaio10
+    2300028: kongtaio11
+    2300030: kongtaio12
+    2300032: kongtaio13
+    2300034: kongtaio14
+    2300036: kongtaio15
+    2300038: kongtaio16
+    2300040: kongtaio5
+    2300042: kongtaio6
+    2300044: kongtaioe08
+    2300046: kongtaior07
+    2300048: kongtaiox01
+    2300050: kongtaiox02
+    2300052: Text001
+    3300000: kongtaio01
+    3300002: kongtaio01 1
+    3300004: kongtaio02
+    3300006: kongtaio02 1
+    3300008: kongtaio03
+    3300010: kongtaio03 1
+    3300012: kongtaio04
+    3300014: kongtaio06
+    3300016: kongtaio07
+    3300018: kongtaio08
+    3300020: kongtaio09
+    3300022: kongtaio1
+    3300024: kongtaio1 1
+    3300026: kongtaio10
+    3300028: kongtaio11
+    3300030: kongtaio12
+    3300032: kongtaio13
+    3300034: kongtaio14
+    3300036: kongtaio15
+    3300038: kongtaio16
+    3300040: kongtaio5
+    3300042: kongtaio6
+    3300044: kongtaioe08
+    3300046: kongtaior07
+    3300048: kongtaiox01
+    3300050: kongtaiox02
+    3300052: Text001
+    4300000: kongtaior07
+    4300002: kongtaio04
+    4300004: kongtaio02
+    4300006: kongtaio06
+    4300008: kongtaio1
+    4300010: kongtaio5
+    4300012: kongtaio03
+    4300014: kongtaio08
+    4300016: kongtaio03
+    4300018: kongtaio01
+    4300020: kongtaiox01
+    4300022: kongtaiox02
+    4300024: kongtaioe08
+    4300026: kongtaio07
+    4300028: kongtaio01
+    4300030: kongtaio02
+    4300032: kongtaio1
+    4300034: Text001
+    4300036: kongtaio13
+    4300038: kongtaio14
+    4300040: kongtaio15
+    4300042: kongtaio16
+    4300044: kongtaio09
+    4300046: kongtaio10
+    4300048: kongtaio11
+    4300050: kongtaio12
+    4300052: kongtaio6
+    7400000: kongtiao
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
